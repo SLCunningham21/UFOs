@@ -20,7 +20,7 @@
 
 
     <!--link to external CSS file-->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="static/css/style.css">
 
 </head>
 
@@ -31,6 +31,9 @@
            <a class="navbar-brand" href="index.html">UFO Sightings</a>
         </nav>
     </div>
+
+
+
     <!--Webpage Header-->
     <div class="jumbotron">
         <h1 class="display-4">Someone Knows The Truth</h1>
@@ -42,7 +45,6 @@
           <div class="col-md-4">
                 <h3>UFO Sightings: Fact or Fiction? <small>Ufologists Weigh In</small></h3>
           </div>
-            
 
           <div class="col-md-8">
                 <p>
@@ -144,7 +146,7 @@
       <!--JS Script with D3 Library-->
       </div>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
-      <script src="data.js"> </script>
-      <script src="js/apps.js.js"> </script>
+      <script src="static/js/data.js"></script>
+      <script src="static/js/app.js"></script>
 </body>
 </html>
