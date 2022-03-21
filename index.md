@@ -20,7 +20,7 @@
 
 
     <!--link to external CSS file-->
-    <link rel="stylesheet" href="C:\Users\La'Cha\Documents\GWU Class Folder\Module 11 UFOs\UFOs-main\static\css\style.css">
+    <link rel="stylesheet" href="style.css">
 
 </head>
 
@@ -144,7 +144,7 @@
       <!--JS Script with D3 Library-->
       </div>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
-      <script src="C:\Users\La'Cha\Documents\GWU Class Folder\Module 11 UFOs\UFOs-main\static\js\data.js"> </script>
-      <script src="C:\Users\La'Cha\Documents\GWU Class Folder\Module 11 UFOs\UFOs-main\static\js\app.js"> </script>
+      <script src="data.js"> </script>
+      <script src="js/apps.js.js"> </script>
 </body>
 </html>
