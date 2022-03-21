@@ -4,16 +4,15 @@
 > Dana’s webpage and dynamic table are working as intended, but she’d like to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape. 
 
 1. ***Deliverable 1***: Filter UFO sightings on multiple criteria
-2. ***Deliverable 2***: A written report on the UFO analysis [`README.md`](https://github.com/emmanuelmartinezs/UFOs). 
+2. ***Deliverable 2***: A written report on the UFO analysis 
 
 ## Resources and Before Start Notes:
 
 * Data Source: `ufo_starterCode.js` and `index.html`
-* Data Tools: ECMAScript, JavaScript, Jupyter Notebook, Python and MongoDB
-For more information, read the [`Documentation on JavaScript and other JS typess`](https://codeburst.io/javascript-double-equals-vs-triple-equals-61d4ce5a121a). 
+* Data Tools: ECMAScript, JavaScript, Jupyter Notebook, Python and MongoDB 
 
 ## Overview of ES6+
-ECMAScript, also referred to as "ES," is a scripting language designed to help standardize JavaScript. This means that ES provides guidelines and rules for JavaScript to follow, such as how a function should be created to run correctly, also known as the **proper syntax**.
+ECMAScript, also referred to as "ES," is a scripting language designed to help standardize JavaScript. This means that ES provides guidelines and rules for JavaScript to follow, such as how a function should be created to run correctly.
 
 Because ES has provided standardization for JavaScript, it also brings updates to the language. There are updates to every major coding language that fix bugs, update code, and provide overall quality of life improvements for the developers. ES6 is no exception.
 
@@ -431,8 +430,6 @@ During the project we realized that we needed to publicly expose the information
 > Recommendations:
 
 
-1. **GitHub Pages - Website Presentation**
-Please use the following [`GitHub Pages`](https://pages.github.com/), for more information on how to use IO pages. 
 
 2. **Create a better `HTML`, `CSS`, and `JavaScript` Work interaction that feed UFOs data from most concise and automate workload**
 
